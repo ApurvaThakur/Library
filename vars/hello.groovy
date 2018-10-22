@@ -1,3 +1,3 @@
-def call(int num1, int num2){
-	echo "sum, ${num1 + num2}"
+def call(String name){
+	echo "sum, ${name}"
 }
